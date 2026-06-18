@@ -70,15 +70,15 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 ## 💼 Experience Highlights
 
 ```
-  Infosys Mysore DC          Apr 2026   iOS Developer Intern
+  Infosys Mysore DC                                                Apr 2026   iOS Developer Intern
     ↳ Built Dual-App Loan Management System (Swift + Xcode)
     ↳ Scrum Master in Agile team environment
 
-  Freelance Web Developer    Apr 2025 – Present
+  Freelance Web Developer                                          Apr 2025 – Present
     ↳ Portfolio + policy management system for Insurance client
     ↳ Brand website for Élan Communications
 
-  Eliivate Digital Services  Nov 2024 – Present   Co-Founder
+  Eliivate Digital Services                                        Nov 2024 – Present   Co-Founder
     ↳ 14× ROAS for Tricote — ₹0 → ₹30K daily revenue
     ↳ Global NGO digital strategy for Green TERRE Foundation
 ```
