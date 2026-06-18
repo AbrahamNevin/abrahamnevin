@@ -1,122 +1,179 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=220&section=header&text=Nevin%20Abraham&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=iOS%20Engineer%20%E2%80%A2%20ML%20Builder%20%E2%80%A2%20Agency%20Founder&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a2e,100:16213e&height=200&section=header&text=Nevin%20Abraham&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder&descAlignY=58&descSize=18&descColor=a0aec0" width="100%"/>
 
-<!-- Dynamic Typing Subtitle -->
+<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+apps+that+actually+matter+%F0%9F%9A%80;iOS+%E2%9C%95+ML+%E2%9C%95+Growth+Marketing;14x+ROAS+%E2%80%94+Zero+to+%E2%82%B930K+daily+revenue;VP+%40+GDG+MIT-WPU+%7C+Apple+%C3%97+Infosys+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+apps+that+actually+matter+%F0%9F%9A%80;iOS+%7C+ML+%7C+Web+%E2%80%94+I+do+it+all;14x+ROAS%2C+0+%E2%86%92+30K+daily+revenue;VP+%40+GDG+MIT-WPU+%7C+Apple+Infosys+Alumni" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Premium Social Grid -->
-<p align="center">
-  <a href="https://linkedin.com/in/nevin-abraham-86a659280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/AbrahamNevin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:nevinabr025@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://medium.com/@nevinabr025"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://leetcode.com/vers3s"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-</p>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nevin-abraham-86a659280)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbrahamNevin)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nevinabr025)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.nevin._25)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vers3s)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinabr025@gmail.com)
+[![Location](https://img.shields.io/badge/Pune%2C%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## 👋 Hey, I'm Nevin
 
-> **B.Tech Computer Science student at MIT-WPU building at the absolute intersection of native mobile architectures, predictive machine learning, and high-conversion product growth.**
+> *B.Tech CS student at MIT-WPU building things at the intersection of mobile, machine learning, and marketing — and occasionally filing patents.*
 
-I am an engineer who goes from shipping memory-efficient **UIKit/SwiftUI** views to fine-tuning **XGBoost** pipelines before lunch. As the **Vice President of GDG MIT-WPU** and an alumnus of the inaugural **Apple × Infosys iOS Development Cohort**, I don't just write code to pass unit tests — I ship production code that actively scales brand revenue and solves real-world user friction.
+I'm the kind of developer who goes from **SwiftUI** to **XGBoost** before lunch. As **VP of GDG MIT-WPU** and a graduate of the **Apple × Infosys iOS Development Program**, I've shipped production apps, co-founded a digital agency, and helped brands scale from zero to real revenue. I'm obsessed with building things that work in the real world — not just in theory.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 What I've Built
 
-### 📱 Dual-App Loan Management Ecosystem (`Udhar De` & `Udhar Le`)
-*An enterprise-grade fintech ecosystem comprising two separate, natively bound iOS applications handling lender and borrower transactions concurrently.*
-
-<table width="100%">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-* **Architecture & UI:** Engineered clean, responsive views using **SwiftUI**, customized **Swift Charts** for real-time portfolio analytics, and integrated biometric security (Face ID / Touch ID) alongside multi-factor authentication.
-* **Backend Pipeline:** Built transactional infrastructure using **Supabase** & **PostgreSQL**, driving real-time peer-to-peer chat syncing via WebSockets and processing instant native PDF invoice generation.
-* **Process:** Handled end-to-end development as Scrum Master, moving from strict Software Requirements Specifications (SRS) to complete agile deployment cycles.
+### 📱 Dual-App Loan Management Ecosystem
+**`SwiftUI` `Supabase` `PostgreSQL` `Razorpay`**
+
+Two native iOS apps — **Udhar De** (lender) and **Udhar Le** (borrower) — forming a complete loan management platform.
+
+- 🔐 MFA + Face ID / Touch ID auth
+- 📊 Portfolio analytics & Swift Charts
+- 💬 Real-time chat via Supabase Realtime
+- 📄 Native PDF generation
+- ⚡ iOS 17+ | Agile Scrum workflow
 
 </td>
-<td width="40%" valign="center" align="center">
+<td width="50%" valign="top">
 
-`SwiftUI` • `Supabase` • `PostgreSQL` • `Razorpay` • `Agile/Scrum`
-<br/><br/>
-<!-- Option to add an app mock graphic here later -->
-<code>[ System Architecture: Active ]</code>
+### 🧠 Credit Risk Prediction System
+**`Python` `XGBoost` `LightGBM` `MLflow` `SQL`**
+
+End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
+
+- 📈 MLflow experiment tracking
+- ⚖️ Fairness analysis module
+- 🗄️ SQL-based data integration
+- 🔬 Comparative model evaluation
 
 </td>
 </tr>
 </table>
 
-### 🧠 Credit Risk Machine Learning Engine
-*An end-to-end predictive pipeline designed to evaluate borrower risk profiles with rigorous transparency tracking.*
+---
 
-* **Model Architecture:** Implemented comparative gradient-boosted ensembles utilizing **XGBoost** and **LightGBM** to accurately classify risk variables.
-* **Ops & Fairness:** Integrated **MLflow** for precise experiment tracking, alongside custom fairness assessment modules to detect and mitigate demographic data bias.
+## 💼 Experience Highlights
+
+```
+🏢  Infosys Mysore DC          Apr 2026   iOS Developer Intern
+    ↳ Built Dual-App Loan Management System (Swift + Xcode)
+    ↳ Scrum Master in Agile team environment
+
+🌐  Freelance Web Developer    Apr 2025 – Present
+    ↳ Portfolio + policy management system for Insurance client
+    ↳ Brand website for Élan Communications
+
+🚀  Eliivate Digital Services  Nov 2024 – Present   Co-Founder
+    ↳ 14× ROAS for Tricote — ₹0 → ₹30K daily revenue
+    ↳ Global NGO digital strategy for Green TERRE Foundation
+```
 
 ---
 
-## 🛠️ The Tech Stack
+## 🛠️ Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33.3%">
-      <strong>Core Languages</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-    <td align="center" width="33.3%">
-      <strong>Frameworks & Architectures</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/SwiftUI_/_UIKit-0071C5?style=flat-square&logo=apple&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    </td>
-    <td align="center" width="33.3%">
-      <strong>Tools & Ecosystems</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Git_/_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Languages**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Platforms**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071C5?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 Track Record & Professional Footprint
+## 📊 GitHub Stats
 
-```keyword
-🏢 Infosys Mysore DC | iOS Developer Intern [Apr 2026]
-   ├── Engineered dual-app systemic infrastructure via Swift & Xcode
-   └── Stepped up as Scrum Master directing sprint schedules and delivery targets
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbrahamNevin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamNevin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="165"/>
+</div>
 
-🚀 Eliivate Digital Services | Co-Founder [Nov 2024 – Present]
-   ├── Driven 14× ROAS loops for Tricote, rocketing revenue from zero to ₹30,000+ daily
-   └── Architected digital structural strategies for global NGOs (Green TERRE Foundation)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamNevin&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="60%"/>
+</div>
 
-🌐 Digital Agency & Independent Engineering [Apr 2025 – Present]
-   ├── Designed premium brand environments & web platforms for Élan Communications
-   └── Deployed structural database and insurance tracking mechanics for enterprise clients
+---
+
+## 🏅 Leadership & Recognition
+
+| Role | Organization | Status |
+|------|-------------|--------|
+| 🎯 **Vice President** | Google Developer Groups, MIT-WPU | Active |
+| 📣 **PR & Sponsorship Head** | GDG MIT-WPU | June 2025 – Present |
+| 🍎 **iOS Dev Program** | Apple × Infosys (Inaugural Cohort) | Alumni |
+| 🎓 **B.Tech CSE** | MIT World Peace University (CGPA 8.70) | 2023 – Present |
+
+---
+
+## 📝 Patents & Publications
+
+> 🔬 **Patent Application Drafted** — *System and Method for Adaptive Parkinson's Workout Control Using Medication Timing and Performance Feedback*
+
+> 📖 **Book Manuscript Under Review** — *Beyond the Screen: Mastering Digital Safety*
+
+---
+
+## 🌐 Languages Spoken
+
+`English` &nbsp;•&nbsp; `Hindi` &nbsp;•&nbsp; `Marathi` &nbsp;•&nbsp; `Malayalam`
+
+---
+
+## 📜 Certifications
+
+- 📊 **Data Visualization & Dashboards** — edX (Excel + Cognos)
+- 🧩 **Critical Thinking & Problem Solving** — edX
+- 💰 **Introduction to Personal Financial Planning** — edX
+
+---
+
+<div align="center">
+
+### 💬 Let's build something together
+
+[![Email Me](https://img.shields.io/badge/Say%20Hello-nevinabr025%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinabr025@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nevin-abraham-86a659280)
+
+<br/>
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0A0A0A&height=120&section=footer" width="100%"/>
+
+</div>
