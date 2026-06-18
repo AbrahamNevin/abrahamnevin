@@ -31,35 +31,35 @@ I'm the kind of developer who goes from **SwiftUI** to **XGBoost** before lunch.
 
 ---
 
-## 🚀 What I've Built
+##  What I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Dual-App Loan Management Ecosystem
+###  Dual-App Loan Management Ecosystem
 **`SwiftUI` `Supabase` `PostgreSQL` `Razorpay`**
 
 Two native iOS apps — **Udhar De** (lender) and **Udhar Le** (borrower) — forming a complete loan management platform.
 
-- 🔐 MFA + Face ID / Touch ID auth
-- 📊 Portfolio analytics & Swift Charts
-- 💬 Real-time chat via Supabase Realtime
-- 📄 Native PDF generation
-- ⚡ iOS 17+ | Agile Scrum workflow
+-  MFA + Face ID / Touch ID auth
+-  Portfolio analytics & Swift Charts
+-  Real-time chat via Supabase Realtime
+-  Native PDF generation
+-  iOS 17+ | Agile Scrum workflow
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Credit Risk Prediction System
+###  Credit Risk Prediction System
 **`Python` `XGBoost` `LightGBM` `MLflow` `SQL`**
 
 End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 
-- 📈 MLflow experiment tracking
-- ⚖️ Fairness analysis module
-- 🗄️ SQL-based data integration
-- 🔬 Comparative model evaluation
+-  MLflow experiment tracking
+-  Fairness analysis module
+-  SQL-based data integration
+-  Comparative model evaluation
 
 </td>
 </tr>
@@ -70,15 +70,15 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 ## 💼 Experience Highlights
 
 ```
-🏢  Infosys Mysore DC          Apr 2026   iOS Developer Intern
+  Infosys Mysore DC          Apr 2026   iOS Developer Intern
     ↳ Built Dual-App Loan Management System (Swift + Xcode)
     ↳ Scrum Master in Agile team environment
 
-🌐  Freelance Web Developer    Apr 2025 – Present
+  Freelance Web Developer    Apr 2025 – Present
     ↳ Portfolio + policy management system for Insurance client
     ↳ Brand website for Élan Communications
 
-🚀  Eliivate Digital Services  Nov 2024 – Present   Co-Founder
+  Eliivate Digital Services  Nov 2024 – Present   Co-Founder
     ↳ 14× ROAS for Tricote — ₹0 → ₹30K daily revenue
     ↳ Global NGO digital strategy for Green TERRE Foundation
 ```
@@ -134,18 +134,18 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 
 | Role | Organization | Status |
 |------|-------------|--------|
-| 🎯 **Vice President** | Google Developer Groups, MIT-WPU | Active |
-| 📣 **PR & Sponsorship Head** | GDG MIT-WPU | June 2025 – Present |
-| 🍎 **iOS Dev Program** | Apple × Infosys (Inaugural Cohort) | Alumni |
-| 🎓 **B.Tech CSE** | MIT World Peace University (CGPA 8.70) | 2023 – Present |
+|  **Vice President** | Google Developer Groups, MIT-WPU | Active |
+|  **PR & Sponsorship Head** | GDG MIT-WPU | June 2025 – Present |
+|  **iOS Dev Program** | Apple × Infosys (Inaugural Cohort) | Alumni |
+|  **B.Tech CSE** | MIT World Peace University (CGPA 8.70) | 2023 – Present |
 
 ---
 
 ## 📝 Patents & Publications
 
-> 🔬 **Patent Application Drafted** — *System and Method for Adaptive Parkinson's Workout Control Using Medication Timing and Performance Feedback*
+>  **Patent Application Drafted** — *System and Method for Adaptive Parkinson's Workout Control Using Medication Timing and Performance Feedback*
 
-> 📖 **Book Manuscript Under Review** — *Beyond the Screen: Mastering Digital Safety*
+>  **Book Manuscript Under Review** — *Beyond the Screen: Mastering Digital Safety*
 
 ---
 
@@ -157,9 +157,9 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 
 ## 📜 Certifications
 
-- 📊 **Data Visualization & Dashboards** — edX (Excel + Cognos)
-- 🧩 **Critical Thinking & Problem Solving** — edX
-- 💰 **Introduction to Personal Financial Planning** — edX
+-  **Data Visualization & Dashboards** — edX (Excel + Cognos)
+-  **Critical Thinking & Problem Solving** — edX
+-  **Introduction to Personal Financial Planning** — edX
 
 ---
 
