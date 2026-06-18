@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+apps+that+actually+matter+%F0%9F%9A%80;iOS+%7C+ML+%7C+Web+%E2%80%94+I+do+it+all;14x+ROAS%2C+0+%E2%86%92+30K+daily+revenue;VP+%40+GDG+MIT-WPU+%7C+Apple+Infosys+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+apps+that+actually+matter+%F0%9F%9A%80;iOS+%7C+ML+%7C+Web+%E2%80%94+I+do+it+all;14x+ROAS%2C+0+%E2%86%92+30K+daily+revenue;VP+%40+GDG+MIT-WPU+%7C+Apple+Infosys+Alumni" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,6 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.nevin._25)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vers3s)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinabr025@gmail.com)
+[![Location](https://img.shields.io/badge/Pune%2C%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -26,15 +27,7 @@
 
 > *B.Tech CS student at MIT-WPU building things at the intersection of mobile, machine learning, and marketing — and occasionally filing patents.*
 
-I'm the kind of developer who goes from **SwiftUI** to **XGBoost** before lunch. As **VP of GDG MIT-WPU** and a graduate of the **Apple × Infosys iOS Development Program**, I've shipped production apps, co-founded a digital agency, and helped brands scale from zero to real revenue. I write about tech on [Medium](https://medium.com/@nevinabr025) and I'm obsessed with building things that work in the real world — not just in theory.
-
----
-
-## 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abrahamnevin&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
-</div>
+I'm the kind of developer who goes from **SwiftUI** to **XGBoost** before lunch. As **VP of GDG MIT-WPU** and a graduate of the **Apple × Infosys iOS Development Program**, I've shipped production apps, co-founded a digital agency, and helped brands scale from zero to real revenue. I'm obsessed with building things that work in the real world — not just in theory.
 
 ---
 
@@ -77,7 +70,7 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 ## 💼 Experience Highlights
 
 ```
-🏢  Infosys Mysore DC          Apr 2026        iOS Developer Intern
+🏢  Infosys Mysore DC          Apr 2026   iOS Developer Intern
     ↳ Built Dual-App Loan Management System (Swift + Xcode)
     ↳ Scrum Master in Agile team environment
 
@@ -92,23 +85,33 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-<a href="https://www.w3org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+**Languages**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Platforms**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071C5?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
@@ -117,12 +120,12 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamnevin&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamnevin&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbrahamNevin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamNevin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamnevin&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamNevin&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="60%"/>
 </div>
 
 ---
@@ -138,19 +141,17 @@ End-to-end ML pipeline for credit risk assessment with enterprise-grade tooling.
 
 ---
 
-## 📝 Latest Writing
-
-I regularly write about tech, iOS development, and digital strategy on Medium.
-
-[![Medium](https://img.shields.io/badge/Read%20on%20Medium-@nevinabr025-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nevinabr025)
-
----
-
 ## 📝 Patents & Publications
 
 > 🔬 **Patent Application Drafted** — *System and Method for Adaptive Parkinson's Workout Control Using Medication Timing and Performance Feedback*
 
 > 📖 **Book Manuscript Under Review** — *Beyond the Screen: Mastering Digital Safety*
+
+---
+
+## 🌐 Languages Spoken
+
+`English` &nbsp;•&nbsp; `Hindi` &nbsp;•&nbsp; `Marathi` &nbsp;•&nbsp; `Malayalam`
 
 ---
 
